@@ -1,6 +1,6 @@
 # DAFO · CAME
 
-Aplicación web: **https://herramientas-calidad.github.io/dafo/** (versión 2026.13).
+Aplicación web: **https://herramientas-calidad.github.io/dafo/** (versión 2026.14).
 
 Aplicación web (PWA) estática, sin dependencias, que funciona sin conexión y se puede instalar en el móvil, para hacer, paso a paso y aprendiendo mientras se hace, el **análisis DAFO** (debilidades, amenazas, fortalezas y oportunidades) de un servicio, una unidad o un proyecto sanitario y, a partir de él, el **análisis CAME** (corregir, afrontar, mantener, explotar) y un plan de acción con indicadores.
 
